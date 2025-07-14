@@ -8,13 +8,13 @@
    version="1.1"
    id="svg38367"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="politicalCardBack.svg"
+   sodipodi:docname="PoliticalCardBack.svg"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview38369"
      pagecolor="#ffffff"
      bordercolor="#999999"
@@ -26,29 +26,23 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.025849"
-     inkscape:cx="93.294219"
-     inkscape:cy="143.89029"
-     inkscape:window-width="958"
-     inkscape:window-height="981"
-     inkscape:window-x="-8"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs38364">
-    <linearGradient
+     inkscape:cx="81.200524"
+     inkscape:cy="144.87753"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs38364"><linearGradient
        inkscape:collect="always"
-       id="linearGradient43408">
-      <stop
+       id="linearGradient43408"><stop
          style="stop-color:#51acb5;stop-opacity:1;"
          offset="0"
-         id="stop43404" />
-      <stop
+         id="stop43404" /><stop
          style="stop-color:#c4f8fd;stop-opacity:1;"
          offset="1"
-         id="stop43406" />
-    </linearGradient>
-    <linearGradient
+         id="stop43406" /></linearGradient><linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient43408"
        id="linearGradient43410"
@@ -56,29 +50,32 @@
        y1="69.089348"
        x2="24.945303"
        y2="3.0038815"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <g
+       gradientUnits="userSpaceOnUse" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
+     id="layer1"><rect
        style="fill:url(#linearGradient43410);stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1"
        id="rect41744"
        width="51.849659"
        height="73.921684"
        x="0.13060367"
-       y="0" />
-    <text
+       y="0" /><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.3;font-family:Cairo;-inkscape-font-specification:'Cairo Bold';text-align:center;direction:rtl;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
-       x="26.492598"
-       y="36.307823"
+       x="26.070555"
+       y="37.899586"
        id="text43948"><tspan
          sodipodi:role="line"
-         id="tspan43946"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Cairo;-inkscape-font-specification:'Cairo Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         x="26.492598"
-         y="36.307823">سياسي</tspan></text>
-  </g>
-</svg>
+         x="26.070555"
+         y="37.899586"
+         id="tspan10175">تنظيمي</tspan></text><g
+       inkscape:label="Layer 1"
+       id="layer1-1"
+       transform="translate(19.617662,59.866065)"><rect
+         style="fill:#c7faff;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
+         id="rect84779"
+         width="7.4083333"
+         height="7.4083333"
+         x="2.6781716"
+         y="2.7705224" /></g></g></svg>
